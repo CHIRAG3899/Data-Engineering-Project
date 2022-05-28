@@ -337,5 +337,3 @@ The dashboard used in this project was generated with [Google Data Studio](https
     1. In _Metric_, choose `Record Count` as the only metric.
 
 You should now have a functioning dashboard.
-
-_[Back to the repo index](https://github.com/ziritrion/dataeng-zoomcamp)_
