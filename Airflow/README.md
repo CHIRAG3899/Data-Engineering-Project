@@ -1,10 +1,10 @@
 ### Concepts
 
- [Airflow Concepts and Architecture](docs/1_concepts.md)
+ [Airflow Concepts and Architecture](1_concepts.md)
 
 ### Workflow
 
- ![](docs/gcs_ingestion_dag.png)
+ ![](gcs_ingestion_dag.png)
  
 ### Setup - Official Version
  (For the section on the Custom/Lightweight setup, scroll down)
