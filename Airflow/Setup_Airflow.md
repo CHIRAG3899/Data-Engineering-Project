@@ -47,7 +47,7 @@
    
 4. It could be overwhelming to see a lot of services in here. 
    But this is only a quick-start template, and as you proceed you'll figure out which unused services can be removed.
-   Eg. [Here's](docker-compose-nofrills.yml) a no-frills version of that template.
+  
 
 5. **Docker Build**:
 
